@@ -1,2 +1,1 @@
 # kimyunaaa.github.io
-.
