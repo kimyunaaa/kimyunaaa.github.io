@@ -3,8 +3,8 @@ title: 베싸육아 | 박정은 | 래디시 | 2023.01.18.
 description: 0~4세 알기만 해도 차이를 만드는 육아 대원칙 6
 author: yuna
 date: 2025-05-14 20:58:00 +0900
-categories: [Blogging]
-tags: [Blogging]
+categories: [BookReview]
+tags: [Baby Science, 베싸육아]
 pin: false
 math: true
 mermaid: true

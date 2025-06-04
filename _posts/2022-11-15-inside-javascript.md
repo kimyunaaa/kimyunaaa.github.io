@@ -3,98 +3,63 @@ title: 인사이드 자바스크립트
 description: 인사이드 자바스크립트 - 송형주, 고현준 지음
 author: yuna
 date: 2022-11-15 21:38:00 +0900
-categories: [javascript]
+categories: [Study, Web]
 tags: [javascript]
 pin: false
 math: true
 mermaid: true
 ---
-호이스팅
 
+호이스팅
 : 함수 선언문 형태로 정의한 함수의 유효 범위는 코드의 맨 처음부터 시작한다
 
 
-
 일급 객체
-
 : 함수는 일반 객체처럼 취급될 수 있다.
-
 - 리터럴에 의해 생성
-
 - 변수나 배열의 요소, 객체의 프로퍼티 등에 할당 가능
-
 - 함수의 리턴값으로 리턴 가능
-
 - 동적으로 프로퍼티를 생성 및 할당 가능
 
 
-
-
-
 객체 프로퍼티 확인용 콘솔 명령어
-
-
 ```
-
 console.dir(obj);
-
 ```
-![Desktop View](assets/img/postImages/2022-11-15-inside-javascript/console.png){: width="500" height="581" }
-
+![Desktop View](assets/img/postImages/2022-11-15-inside-javascript/console.png){: width="500" height="581" }  
 
 
 caller 프로퍼티
-
-: 자신을 호출한 함수 표시
-![Desktop View](assets/img/postImages/2022-11-15-inside-javascript/caller.png){: width="500" height="581" }
-
+: 자신을 호출한 함수 표시  
+![Desktop View](assets/img/postImages/2022-11-15-inside-javascript/caller.png){: width="500" height="581" }  
 
 
 스코프 체이닝
-
 : 내부 함수는 자신을 둘러싼 외부 함수의 변수에 접근 가능하다
 
 
-
  객체 리터럴 방식과 생성자 함수를 통한 객체 생성 방식의 차이
-
 : 객체 리터럴 방식으로 생성된 객체는 같은 형태의 객체를 재생성 할 수 없다
 
 프로토타입 객체가 다르다
 
 
-
 [[Prototype]] 링크
-
 : 암묵적 프로토타입 링크라고 부른다
-
 자신의 부모인 프로토타입 객체를 가리키는 참조 링크 형태의 숨겨진 프로퍼티다
 
 
-
-
-
 프로토타입
-
 : 디폴트 프로토타입은 다를 객체로 변경 가능하지만, 변경이 되면 변경된 시점 이후에 생성된 객체들은 변경된 프로토타입 객체로 [[Prototype]] 링크를 연결해야 한다
 
 
 
-
-
 프로토타입 체이닝
-
 : 자신의 부모 역할을 하는 프로토타입 객체의 프로퍼티 또한 자신의 것처럼 접근 가능
-
 모든 객체는 자신을 생성한 생성자 함수의 prototype 프로퍼티가 가리키는 객체를 자신의 프로토타입 객체(부모 객체)로 취급한다
-
 Object.prototype  객체는 프로토타입 체이닝의 종점이다
-
 프로토타입 객체 역시 자바스크립트 객체이므로 동적으로 프로퍼티를 추가/삭제하는 것이 가능하며 실시간으로 프로토타입 체이닝에 반영된다
-
 객체의 프로퍼티 읽기나 메서드를 실행할 때만 프로토타입 체이닝이 동작한다
-
-
 
 
 

@@ -3,8 +3,8 @@ title: 놓아주는 엄마 주도하는 아이 | 윌리엄 스틱스러드,네�
 description: ‘자기주도성’은 ‘성공 경험’으로 만들어진다
 author: yuna
 date: 2025-05-15 20:58:00 +0900
-categories: [Blogging]
-tags: [Blogging]
+categories: [BookReview]
+tags: [놓아주는 엄마 주도하는 아이]
 pin: false
 math: true
 mermaid: true

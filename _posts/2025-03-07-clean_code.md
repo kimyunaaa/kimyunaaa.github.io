@@ -3,8 +3,8 @@ title: Clean Code(클린 코드) | 로버트 C. 마틴 | 인사이트 | 2013.12.
 description: 애자일 소프트웨어 장인 정신
 author: yuna
 date: 2025-03-07 20:58:00 +0900
-categories: [Blogging]
-tags: [Blogging]
+categories: [BookReview]
+tags: [CleanCode]
 pin: false
 math: true
 mermaid: true

@@ -3,8 +3,8 @@ title: 똑똑한 육아 건강한 아이 특강
 description: \"함께 육아의 날\" 기념 특강 - 우창윤 교수
 author: yuna
 date: 2025-05-09 13:00:00 +0900
-categories: [Blogging]
-tags: [Blogging]
+categories: [Lecture]
+tags: [함께 육아의 날, 우창윤교수, 똑똑한 육아, 건강한 아이, 특강]
 pin: false
 math: true
 mermaid: true

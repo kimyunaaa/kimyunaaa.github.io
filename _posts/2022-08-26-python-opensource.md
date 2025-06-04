@@ -3,8 +3,8 @@ title: 파이썬 스크래핑 오픈소스
 description: 파이썬 스크래핑 오픈소스
 author: yuna
 date: 2022-08-26 14:00:00 +0900
-categories: [Python]
-tags: [Python, Info]
+categories: [Study, Python]
+tags: [Python, OpenSource]
 pin: false
 math: true
 mermaid: true
