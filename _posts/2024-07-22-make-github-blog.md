@@ -4,7 +4,7 @@ description: GitHub 블로그 만들기 기록
 author: yuna
 date: 2024-07-22 21:38:00 +0900
 categories: [Blogging, TriedOut]
-tags: [GitHub, GitHubBlog]
+tags: [GitHub, GitHub Blog]
 pin: false
 math: true
 mermaid: true

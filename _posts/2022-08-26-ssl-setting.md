@@ -1,6 +1,6 @@
 ---
 title: SSL 사설 인증서(Self Signed) 생성
-description: SSL
+description: SSL 사설 인증서(Self Signed) 생성
 author: yuna
 date: 2022-08-26 18:09:00 +0900
 categories: [Study, DevOps]

@@ -4,7 +4,7 @@ description: Docker 컴파일
 author: yuna
 date: 2022-08-26 18:11:00 +0900
 categories: [Study, DevOps]
-tags: [Docker, DevOps]
+tags: [Docker, DevOps, Docker Compile]
 pin: false
 math: true
 mermaid: true

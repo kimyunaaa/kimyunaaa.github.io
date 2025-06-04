@@ -1,10 +1,10 @@
 ---
-title: GitHub 블로그에 Jekyll Chirpy 테마 적용하기
-description: Jekyll Chirpy 테마 적용 기록
+title: Jekyll Chirpy 테마 적용하기
+description: GitHub 블로그에 Jekyll Chirpy 테마 적용 기록
 author: yuna
 date: 2024-07-23 20:58:00 +0900
 categories: [Blogging, TriedOut]
-tags: [GitHub, GitHubBlog, JekyllThema, ChirpyThema]
+tags: [GitHub, GitHub Blog, Jekyll Thema, Chirpy Thema]
 pin: false
 math: true
 mermaid: true

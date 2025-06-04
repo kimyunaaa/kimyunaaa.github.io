@@ -4,7 +4,7 @@ description: Docker 커리큘럼
 author: yuna
 date: 2022-08-26 18:01:00 +0900
 categories: [Study, DevOps]
-tags: [Docker, DevOps]
+tags: [Docker, DevOps, Docker Curriculum]
 pin: false
 math: true
 mermaid: true

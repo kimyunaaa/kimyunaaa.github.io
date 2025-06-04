@@ -1,6 +1,6 @@
 ---
 title: Docker Registry
-description: Docker
+description: Docker Registry
 author: yuna
 date: 2022-08-26 18:39:00 +0900
 categories: [Study, DevOps]
