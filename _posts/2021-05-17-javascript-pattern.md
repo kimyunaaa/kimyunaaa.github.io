@@ -17,6 +17,8 @@ mermaid: true
 - 프로토타입 패턴
 - 싱글톤 패턴
 
+<br/>
+
 구조 디자인 패턴
 - 컴포지트 패턴
 - 데코레이터 패턴
@@ -25,6 +27,8 @@ mermaid: true
 - 퍼사드 패턴
 - 플라이웨이트 패턴
 - 프록시 패턴
+
+<br/>
 
 행동 디자인 패턴
 - 책임 연쇄 패턴
@@ -38,25 +42,29 @@ mermaid: true
 - 관찰자 패턴
 - 방문자 패턴
 
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-SEO (Search Engine Optimization)
-린팅(code linting)
-브라우저리파이(browserify)
-AMD (anynchronous module difinition)
-트랜스파일 모드(transpile mode): 컴파일러 옵션 isolatedModules에 해당
-SASS 로더
-LESS 로더
-PR(Pull Request)
-AMD 모듈?
-미들웨어?
-훅(hook)?
-Promise?
+SEO (Search Engine Optimization)  
+린팅(code linting)  
+브라우저리파이(browserify)  
+AMD (anynchronous module difinition)  
+트랜스파일 모드(transpile mode): 컴파일러 옵션 isolatedModules에   
+SASS 로더  
+LESS 로더  
+PR(Pull Request)  
+AMD 모듈?  
+미들웨어?  
+훅(hook)?  
+Promise?  
 XHR(XMLHttpRequest)?
 
- 
-
- 
+<br/>
+<br/>
+<br/>
+<br/>
 
 SOLID 원칙
 - 단일 책임 원칙(Single responsibility principle)
@@ -64,4 +72,3 @@ SOLID 원칙
 - 리스코프 치환 원칙(Liskov substitution principle)
 - 인터페이스 분리 원칙(Interface segregation principle)
 - 의존 관계 역전 원칙(Dependency inversion principle)
-- 
