@@ -2,7 +2,7 @@
 title: classic ASP
 description: classic ASP
 author: yuna
-date: 2023-08-22 12:41:00 +0900
+date: 2023-08-26 12:41:00 +0900
 categories: [Study, ASP]
 tags: [ASP]
 pin: false
