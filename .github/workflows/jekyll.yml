@@ -69,6 +69,11 @@ jobs:
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
+      - name: Upload ads
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "ads.txt"
+
   deploy:
     environment:
       name: github-pages
